@@ -1,0 +1,15 @@
+{
+    "name": "anna/first-project",
+    "description": "Anna's project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anna",
+            "email": "abc@aarhus.dk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
