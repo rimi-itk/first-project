@@ -11,5 +11,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
+        "itk-dev/pretix-api-client-php": "dev-develop"
     }
 }
